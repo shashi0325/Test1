@@ -1,0 +1,86 @@
+Body{
+    Border:Solid;
+    color:black;
+    padding-left: 50px;
+    padding-bottom:50px;
+    margin-left: 300px;
+    margin-right:300px;
+}
+.Director1{
+    background-color: rgb(141, 146, 148);
+    padding-bottom: 22px;
+    margin-right:50px;   
+}
+.Director1 h3{
+    color:rgb(13, 255, 0);
+   padding-top:20px;
+   padding-left:200px;
+}
+.Director1 h5{
+    color:rgb(244, 244, 246);
+    padding:0px 210px;
+}
+.Director1 img{
+    float:left;
+    border-style: solid;
+}
+.Director1 p{
+   margin-left: 100px ;
+   padding-left: 90px;
+   padding-right: 50px;
+}
+.Button {
+    float:right;
+    margin-right:100px;
+}
+.Button a:hover{
+    color:Red;
+}
+
+
+
+
+
+.Director2{
+    background-color: rgb(141, 146, 148);
+    padding-bottom: 22px;
+    margin-right:50px;   
+}
+.Director2 h3{
+    color:rgb(13, 255, 0);
+   padding-top:20px;
+   padding-left:200px;
+}
+.Director2 h5{
+    color:rgb(224, 224, 224);
+    padding:0px 210px;
+}
+.Director2 img{
+    float:left;
+    margin-top: 50px;
+    border-style: solid;
+}
+.Director2 p{
+   margin-left: 100px ;
+   padding-left: 90px;
+   padding-right: 50px;
+}
+.Button {
+    float:right;
+    margin-right:100px;
+}
+.Button ul{
+    list-style-type:none;
+}
+.Button a{
+    text-decoration: none;
+}
+.Button a:hover{
+    color:Red;
+}
+footer a{
+    text-decoration: none; 
+}
+footer a:hover{
+    color:rgb(255, 0, 149);
+}
